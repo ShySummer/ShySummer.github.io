@@ -32,8 +32,8 @@ My research interests include：
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
+- *2023.09 - 2026.03*, <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/SJTU_logo.svg" width="20pt"></a> Shanghai Jiao Tong University School of Biomedical Engineering, Shanghai China, Master 
+- *2019.09 - 2023.06*, <a href="https://www.njupt.edu.cn/"><img class="svg" src="/images/NJUPT_logo.svg" width="20pt"></a> Nanjing University of Posts and Telecommunications School of Communications and Information Engineering, Nanjing China, Undergraduate
  
 <span class='anchor' id='-lwzl'></span>
 
