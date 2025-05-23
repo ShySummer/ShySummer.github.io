@@ -20,14 +20,12 @@ redirect_from:
 Hi! I will graduate in March 2026 with a M.Sc. degree in biomedical engineering from Shanghai Jiao Tong University. My supervisor is Zhiyong Zhang. I graduated from Nanjing University of Posts and Telecommunications with a major in Electronic Information Engineering.
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
-我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
+My research interests include：
+- Magnetic Resonance Imaging
+- Medical Imaging
+- Signal Processing
+- Mahcine Learning
+- RF Sensing
   
 
 
