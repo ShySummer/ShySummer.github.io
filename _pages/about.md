@@ -26,10 +26,11 @@ My research interests include magnetic resonance imaging (MRI), signal processin
 <div class='paper-box-text' markdown="1">
 
 [Deep Learning-Driven ECG Synthesis from Beat Pilot Tone Signals for Physiological Monitoring and Image Reconstruction](https://submissions.mirasmart.com/ISMRM2025/Itinerary/ConferenceMatrixEventDetail.aspx?ses=PP-01)
+
 **Haoyu Sun**, Sijie Zhong, Qichen Ding, Philip Kenneth Lee, Zhiyong Zhang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
@@ -40,7 +41,7 @@ My research interests include magnetic resonance imaging (MRI), signal processin
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2023.09 - present*, Master's Degree, Biomedical Engineering, Shanghai Jiao Tong University 
+- *2023.09 - present*, **M.Sc.** Biomedical Engineering <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/SJTU_logo.svg" width="23pt"></a> Shanghai Jiao Tong University 
 - *2019.09 - 2023.06*, Bachelor's Degree, Electrical Engineering, Nanjing University of Posts and Telecommunications 
 
 # 💬 Invited Talks
