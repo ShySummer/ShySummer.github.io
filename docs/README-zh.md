@@ -32,6 +32,9 @@ AcadHomepage
 - **美观而简约**: 此主页美观而简约，适合个人学术主页的搭建。
 - **搜索引擎优化**: 搜索引擎优化 (SEO) 帮助搜索引擎轻松找到您在主页上发布的信息，然后将其与类似网站进行排名，并获得排名优势。
 
+## 备注
+我关掉了Google学术自动抓取，即删除了.github/workflows/google_scholar_crawler.yaml文件
+
 ## 快速开始
 
 1. Fork本仓库到`USERNAME/USERNAME.github.io`，其中`USERNAME`是你的github用户名。

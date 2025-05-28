@@ -41,8 +41,8 @@ My research interests include magnetic resonance imaging (MRI), signal processin
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2023.09 - present*, **M.Sc.** Biomedical Engineering <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/SJTU_logo.svg" width="23pt"></a> Shanghai Jiao Tong University 
-- *2019.09 - 2023.06*, Bachelor's Degree, Electrical Engineering, Nanjing University of Posts and Telecommunications 
+- *2023.09 - present*, Master, Biomedical Engineering, <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/SJTU_logo.svg" width="23pt"></a> Shanghai Jiao Tong University 
+- *2019.09 - 2023.06*, Bachelor, Electrical Engineering, <a href="https://www.njupt.edu.cn/"><img class="svg" src="/images/NJUPT_logo.svg" width="20pt"></a> Nanjing University of Posts and Telecommunications 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
