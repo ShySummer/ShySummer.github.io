@@ -72,8 +72,11 @@ In Proc. Intl. Soc. Mag. Reson. Med, 03-08 June, Toronto, Canada, 2023 (Oral)
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10* Shanghai Jiao Tong University First-Class Academic Scholarship 
+- *2022.10* National Scholarship (Top 1%)
+- *2021.12* [First Prize in TI Cup China’s Undergraduate Electronics Design Contest](https://www.bilibili.com/video/BV1zp8Je9Esr/?spm_id_from=333.1387.favlist.content.click&vd_source=fb44d4bd04beda1502bf99705ce0494f)
+- *2021.10* National Scholarship (Top 1%)
+- *2021.09* [Second Prize in China’s Undergraduate Smart Car Contest](https://www.bilibili.com/video/BV1LP4y1P77p/?spm_id_from=333.1387.top_right_bar_window_default_collection.content.click&vd_source=fb44d4bd04beda1502bf99705ce0494f)
 
 # 📖 Educations
 - *2023.09 - present*, Master, Biomedical Engineering, <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/SJTU_logo.svg" width="23pt"></a> Shanghai Jiao Tong University 
