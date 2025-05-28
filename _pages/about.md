@@ -29,7 +29,7 @@ My research interests include magnetic resonance imaging (MRI), signal processin
 
 **Haoyu Sun**, Sijie Zhong, Qichen Ding, Philip Kenneth Lee, Zhiyong Zhang
 
-the ISMRM Annual Meeting, 10-15 May, Honolulu, Hawaii, 2025 (Power Pitch)
+In Proc. Intl. Soc. Mag. Reson. Med, 10-15 May, Honolulu, Hawaii, 2025 (Power Pitch)
 </div>
 </div>
 
@@ -42,12 +42,25 @@ Suen Chen, **Haoyu Sun**, Suma Anand, Michael Lustig, Yueqi Qiu, Sijie Zhong, Ha
 
 IEEE Transactions on Instrumentation and Measurement, 2025.
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMRM 2024</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Experimental Investigation of Interfering Factors in Cardiac Sensing of Beat Pilot Tone](https://archive.ismrm.org/2024/3914.html)
+
+**Haoyu Sun**, Sijie Zhong, Suen Chen, Wei Hou, Qichen Ding, Hao Chen, Zhiyong Zhang
+
+In Proc. Intl. Soc. Mag. Reson. Med, 04-09 May, Singapore, 2024 (Digital Poster)
+
+</div>
+</div>
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+
+- [Towards contact-free motion sensing technique at low-field MRI using beat pilot tone](https://archive.ismrm.org/2023/1020.html) Suen Chen, **Haoyu Sun**, Hao Chen, Suma Anand, Michael Lustig, Zhiyong Zhang. ISMRM 2023 (Oral)
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
