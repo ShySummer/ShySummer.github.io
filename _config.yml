@@ -9,7 +9,7 @@
 title                    : "Haoyu Sun (孙浩宇)"
 description              : "Master student @ SJTU, working on MRI methods"
 repository               : "ShySummer/ShySummer.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
