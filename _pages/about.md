@@ -17,21 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Haoyu Sun, and I will graduate in March 2026 with a M.Sc. degree in biomedical engineering from Shanghai Jiao Tong University.
-
-My research interest includes motion detection and correction for magnetic resonance imaing. I have published more than 100 papers at the top international AI conferences with total.
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+I am currently a Master's student at the School of Biomedical Engineering, Shanghai Jiao Tong University, with an expected graduation in March 2026. 
+My research interests include magnetic resonance imaging (MRI), signal processing, deep learning and RF sensing, with a primary focus on motion detection and correction in MRI. I am actively seeking PhD positions that align with these areas of study.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMRM 2025</div><img src='images/paper 1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Deep Learning-Driven ECG Synthesis from Beat Pilot Tone Signals for Physiological Monitoring and Image Reconstruction
+**Haoyu Sun**, Sijie Zhong, Qichen Ding, Philip Kenneth Lee, Zhiyong Zhang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
