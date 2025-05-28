@@ -30,6 +30,8 @@ My research interests include magnetic resonance imaging (MRI), signal processin
 **Haoyu Sun**, Sijie Zhong, Qichen Ding, Philip Kenneth Lee, Zhiyong Zhang
 
 the ISMRM Annual Meeting, 10-15 May, Honolulu, Hawaii, 2025 (Power Pitch)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Instrum. Meas. 2025</div><img src='images/paper2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -39,8 +41,6 @@ the ISMRM Annual Meeting, 10-15 May, Honolulu, Hawaii, 2025 (Power Pitch)
 Suen Chen, **Haoyu Sun**, Suma Anand, Michael Lustig, Yueqi Qiu, Sijie Zhong, Hao Chen, Zhiyong Zhang
 
 IEEE Transactions on Instrumentation and Measurement, 2025.
-
-
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
