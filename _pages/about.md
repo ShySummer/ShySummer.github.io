@@ -72,6 +72,12 @@ In Proc. Intl. Soc. Mag. Reson. Med, 03-08 June, Toronto, Canada, 2023 (Oral)
 </div>
 </div>
 
+- Deep learning-driven contactless ECG in MRI via beat pilot tone for motion-resolved image reconstruction and heart rate monitoring
+  
+**Haoyu Sun**, Qichen Ding, Sijie Zhong, Zhiyong Zhang
+
+paper submitted to Physics in Medicine & Biology
+
 # 📖 Educations
 - *2023.09 - present*, Master, Biomedical Engineering, <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/SJTU_logo.svg" width="23pt"></a> Shanghai Jiao Tong University 
 - *2019.09 - 2023.06*, Bachelor, Electrical Engineering, <a href="https://www.njupt.edu.cn/"><img class="svg" src="/images/NJUPT_logo.svg" width="20pt"></a> Nanjing University of Posts and Telecommunications 
