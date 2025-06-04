@@ -65,7 +65,7 @@ In Proc. Intl. Soc. Mag. Reson. Med, 04-09 May, Singapore, 2024 (Digital Poster)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMRM 2023</div><img src='images/paper4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Towards contact-free motion sensing technique at low-field MRI using beat pilot tone](https://archive.ismrm.org/2023/1020.html) 
+[Towards contact-free motion sensing technique at low-field MRI using beat pilot tone](https://archive.ismrm.org/2023/1020.html) 
   
 Suen Chen, **Haoyu Sun**, Hao Chen, Suma Anand, Michael Lustig, Zhiyong Zhang
 
@@ -74,7 +74,7 @@ In Proc. Intl. Soc. Mag. Reson. Med, 03-08 June, Toronto, Canada, 2023 (Oral)
 </div>
 </div>
 
-- Deep learning-driven contactless ECG in MRI via beat pilot tone for motion-resolved image reconstruction and heart rate monitoring 
+Deep learning-driven contactless ECG in MRI via beat pilot tone for motion-resolved image reconstruction and heart rate monitoring 
 
 **Haoyu Sun**, Qichen Ding, Sijie Zhong, Zhiyong Zhang. Physics in Medicine & Biology, 2025 (Under Review)
 
