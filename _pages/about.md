@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 👨🏽‍🎓 About me
+
 I am currently a Master’s student supervised by [Zhiyong Zhang](https://zzmri.sjtu.edu.cn/group/) at the School of Biomedical Engineering, Shanghai Jiao Tong University, with an expected graduation in March 2026. 
 
 My research interests include magnetic resonance imaging (MRI), signal processing, deep learning and RF sensing, with a primary focus on motion detection and correction in MRI. **I am actively seeking PhD positions that align with these areas of study.**
@@ -72,15 +74,17 @@ In Proc. Intl. Soc. Mag. Reson. Med, 03-08 June, Toronto, Canada, 2023 (Oral)
 </div>
 </div>
 
-- Deep learning-driven contactless ECG in MRI via beat pilot tone for motion-resolved image reconstruction and heart rate monitoring
-  
-**Haoyu Sun**, Qichen Ding, Sijie Zhong, Zhiyong Zhang
+- Deep learning-driven contactless ECG in MRI via beat pilot tone for motion-resolved image reconstruction and heart rate monitoring **Haoyu Sun**, Qichen Ding, Sijie Zhong, Zhiyong Zhang. paper submitted to Physics in Medicine & Biology
 
-paper submitted to Physics in Medicine & Biology
+# 🔬 Research Experience
 
-# 📖 Educations
+- 2022.08-2023.08 
+  **Development of a new radio-frequency motion sensing method in MRI** 
+    - Hardware device for transmitting RF sensing signals
+
+# 📖 Education
 - *2023.09 - present*, Master, Biomedical Engineering, <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/SJTU_logo.svg" width="23pt"></a> Shanghai Jiao Tong University 
-- *2019.09 - 2023.06*, Bachelor, Electrical Engineering, <a href="https://www.njupt.edu.cn/"><img class="svg" src="/images/NJUPT_logo.svg" width="20pt"></a> Nanjing University of Posts and Telecommunications 
+- *2019.09 - 2023.06*, Bachelor, cum laude, Electrical Engineering, <a href="https://www.njupt.edu.cn/"><img class="svg" src="/images/NJUPT_logo.svg" width="20pt"></a> Nanjing University of Posts and Telecommunications 
 
 # 🎖 Honors and Awards
 - *2024.10* Shanghai Jiao Tong University First-Class Academic Scholarship 
@@ -88,9 +92,6 @@ paper submitted to Physics in Medicine & Biology
 - *2021.12* First Prize in TI Cup China’s Undergraduate Electronics Design Contest \| [\[video\]](https://www.bilibili.com/video/BV1zp8Je9Esr/?spm_id_from=333.1387.favlist.content.click&vd_source=fb44d4bd04beda1502bf99705ce0494f)
 - *2021.10* National Scholarship (Top 1%)
 - *2021.09* Second Prize in China’s Undergraduate Smart Car Contest \| [\[video\]](https://www.bilibili.com/video/BV1LP4y1P77p/?spm_id_from=333.1387.top_right_bar_window_default_collection.content.click&vd_source=fb44d4bd04beda1502bf99705ce0494f)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 # ​👻 Personal
 I love outdoor activieties
