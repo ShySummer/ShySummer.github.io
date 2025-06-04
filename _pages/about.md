@@ -74,7 +74,9 @@ In Proc. Intl. Soc. Mag. Reson. Med, 03-08 June, Toronto, Canada, 2023 (Oral)
 </div>
 </div>
 
-- Deep learning-driven contactless ECG in MRI via beat pilot tone for motion-resolved image reconstruction and heart rate monitoring **Haoyu Sun**, Qichen Ding, Sijie Zhong, Zhiyong Zhang. paper submitted to Physics in Medicine & Biology
+- Deep learning-driven contactless ECG in MRI via beat pilot tone for motion-resolved image reconstruction and heart rate monitoring 
+
+**Haoyu Sun**, Qichen Ding, Sijie Zhong, Zhiyong Zhang. Physics in Medicine & Biology, 2025 (Under Review)
 
 # 🔬 Research Experience
 
