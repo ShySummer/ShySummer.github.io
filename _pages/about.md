@@ -28,7 +28,7 @@ My research interests include magnetic resonance imaging (MRI), signal processin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMRM 2025</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Learning-Driven ECG Synthesis from Beat Pilot Tone Signals for Physiological Monitoring and Image Reconstruction](https://submissions.mirasmart.com/ISMRM2025/Itinerary/ConferenceMatrixEventDetail.aspx?ses=PP-01)
+[Deep Learning-Driven ECG Synthesis from Beat Pilot Tone Signals for Physiological Monitoring and Image Reconstruction](https://submissions.mirasmart.com/ISMRM2025/Itinerary/PresentationDetail.aspx?evdid=2857)
 
 **Haoyu Sun**, Sijie Zhong, Qichen Ding, Philip Kenneth Lee, Zhiyong Zhang
 
