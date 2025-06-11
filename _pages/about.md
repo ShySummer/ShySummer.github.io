@@ -80,10 +80,7 @@ Deep learning-driven contactless ECG in MRI via beat pilot tone for motion-resol
 
 # 🔬 Research Experience
 
-**Develpoment of a new radio-frequency motion sensing method in Low-Field MRI** 
-
-<div style="text-align: right">Aug 2022 - Sep 2024</div>
-
+**Develpoment of a new radio-frequency motion sensing method in Low-Field MRI** <span style="float: right">Aug 2022 - Sep 2024</span>
 - **Integration of a 0.25T permanent C-shaped MRI system**: 
 
 
