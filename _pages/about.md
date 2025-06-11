@@ -51,7 +51,7 @@ IEEE Transactions on Instrumentation and Measurement, 2025.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMRM 2024</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Experimental Investigation of Interfering Factors in Cardiac Sensing of Beat Pilot Tone](https://archive.ismrm.org/2024/3914.html)
+[Experimental Investigation of Interfering Factors in Cardiac Sensing of Beat Pilot Tone](https://submissions.mirasmart.com/ISMRM2024/Itinerary/PresentationDetail.aspx?evdid=1691)
 
 **Haoyu Sun**, Sijie Zhong, Suen Chen, Wei Hou, Qichen Ding, Hao Chen, Zhiyong Zhang
 
@@ -65,7 +65,7 @@ In Proc. Intl. Soc. Mag. Reson. Med, 04-09 May, Singapore, 2024 (Digital Poster)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMRM 2023</div><img src='images/paper4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Towards contact-free motion sensing technique at low-field MRI using beat pilot tone](https://archive.ismrm.org/2023/1020.html) 
+[Towards contact-free motion sensing technique at low-field MRI using beat pilot tone](https://submissions.mirasmart.com/ISMRM2023/Itinerary/PresentationDetail.aspx?evdid=930) 
   
 Suen Chen, **Haoyu Sun**, Hao Chen, Suma Anand, Michael Lustig, Zhiyong Zhang
 
@@ -80,9 +80,9 @@ Deep learning-driven contactless ECG in MRI via beat pilot tone for motion-resol
 
 # 🔬 Research Experience
 
-- 2022.08-2023.08 
-  **Development of a new radio-frequency motion sensing method in MRI** 
-    - Hardware device for transmitting RF sensing signals
+**Develpoment of a new radio-frequency motion sensing method in Low-Field MRI**                                                                                Aug 2022 - Sep 2024
+- **Integration of a 0.25T permanent C-shaped MRI system**: 
+
 
 # 📖 Education
 - *2023.09 - present*, Master, Biomedical Engineering, <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/SJTU_logo.svg" width="23pt"></a> Shanghai Jiao Tong University 
