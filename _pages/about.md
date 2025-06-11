@@ -80,8 +80,16 @@ Deep learning-driven contactless ECG in MRI via beat pilot tone for motion-resol
 
 # 🔬 Research Experience
 
-**Develpoment of a new radio-frequency motion sensing method in Low-Field MRI** <span style="float: right">Aug 2022 - Sep 2024</span>
-- **Integration of a 0.25T permanent C-shaped MRI system**: 
+**A novel contact-free motion sensing method in Low-Field MRI** <span style="float: right">Aug 2022 - Sep 2024</span>
+- **Funding Application**: Prepared grant proposal materials that successfully secured funding from the National Natural Science Foundation of China (NSFC).
+- **Integration of a 0.25T permanent C-shaped MRI system**: Assisted in assembling a low-field MRI system (magnet, shielding room, gradient and RF amplifiers, power supply, etc.).
+- **Quality assurance for the low field MRI system**: 
+- **Hardware device for transmitting RF sensing signals**:
+- **Signal Processing**:
+
+**Development of a small quadruped robot with VSLAM capabilities** <span style="float: right">Apr 2021 - Apr 2022</span>
+- **Algorithm deplotment**: Deploy Stereo Vision-based SLAM algorithm on Nvidia embedded device to navigate for quadruped robot.
+
 
 
 # 📖 Education
