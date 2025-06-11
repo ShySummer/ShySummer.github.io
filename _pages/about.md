@@ -83,7 +83,7 @@ Deep learning-driven contactless ECG in MRI via beat pilot tone for motion-resol
 **A novel contact-free motion sensing method in Low-Field MRI** <span style="float: right">Aug 2022 - Sep 2024</span>
 - **Funding Application**: Prepared grant proposal materials that successfully secured funding from the National Natural Science Foundation of China (NSFC).
 - **Integration of a 0.25T permanent C-shaped MRI system**: Assisted in assembling a low-field MRI system (magnet, shielding room, gradient and RF amplifiers, power supply, etc.).
-- **Quality assurance for the low field MRI system**: 
+- **Quality assurance for the low field MRI system**: Implemented a magnetic field auto-measurement control system based on the open-source project [cosi-measure](https://github.com/opensourceimaging/cosi-measure).
 - **Hardware device for transmitting RF sensing signals**:
 - **Signal Processing**:
 
@@ -99,9 +99,10 @@ Deep learning-driven contactless ECG in MRI via beat pilot tone for motion-resol
 # 🎖 Honors and Awards
 - *2024.10* Shanghai Jiao Tong University First-Class Academic Scholarship 
 - *2022.10* National Scholarship (Top 1%)
-- *2021.12* First Prize in TI Cup China’s Undergraduate Electronics Design Contest \| [\[video\]](https://www.bilibili.com/video/BV1zp8Je9Esr/?spm_id_from=333.1387.favlist.content.click&vd_source=fb44d4bd04beda1502bf99705ce0494f)
+- *2021.12* First Prize in TI Cup China’s Undergraduate Electronics Design Contest \| [\[Intelligent medication delivery robot\]](https://www.bilibili.com/video/BV1zp8Je9Esr/?spm_id_from=333.1387.favlist.content.click&vd_source=fb44d4bd04beda1502bf99705ce0494f)
 - *2021.10* National Scholarship (Top 1%)
-- *2021.09* Second Prize in China’s Undergraduate Smart Car Contest \| [\[video\]](https://www.bilibili.com/video/BV1LP4y1P77p/?spm_id_from=333.1387.top_right_bar_window_default_collection.content.click&vd_source=fb44d4bd04beda1502bf99705ce0494f)
+- *2021.09* Second Prize in China’s Undergraduate Smart Car Contest \| [\[Omnidirectional Smart Car Racing\]](https://www.bilibili.com/video/BV1LP4y1P77p/?spm_id_from=333.1387.top_right_bar_window_default_collection.content.click&vd_source=fb44d4bd04beda1502bf99705ce0494f)
+
 
 # ​👻 Personal
 I love outdoor activieties
