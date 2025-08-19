@@ -84,12 +84,11 @@ Deep learning-driven contactless ECG in MRI via beat pilot tone for motion-resol
 - **Funding Application**: Prepared grant proposal materials that successfully secured funding from the National Natural Science Foundation of China (NSFC).
 - **Integration of a 0.25T permanent C-shaped MRI system**: Assembled a low-field MRI system from scratch (magnet, shielding room, gradient and RF amplifiers, power supply, etc.).
 - **Quality assurance for the low field MRI system**: Implemented a magnetic field auto-measurement control system on raspberry pi based on the open-source project [cosi-measure](https://github.com/opensourceimaging/cosi-measure).
-- **RF-based contact-free motion sensing**: Implemented Beat Pilot Tone hardware link modules to transmit two tones of 2.4GHz RF signal for motion sensing.
-- **Signal Processing**:
+- **RF-based contact-free motion sensing**: Integrated [Beat Pilot Tone (BPT)](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.30150) hardware link modules to transmit 2.4 GHz RF signals for motion sensing during MRI scans.
+- **Signal Processing**: Extracted motion features from high-dimensional BPT-derived physiological data and mapped it to quantitative representations using a motion model.
 
 ## **Development of a small quadruped robot with VSLAM capabilities** <span style="float: right">Apr 2021 - Apr 2022</span>
-- **Algorithm deplotment**: Deploy Stereo Vision-based SLAM algorithm on Nvidia embedded device to navigate for quadruped robot.
-
+- **Algorithm deplotment**: Deployed Stereo Vision-based SLAM algorithm on Nvidia embedded device based on [ROS](https://www.ros.org/) to navigate for quadruped robot.
 
 
 # 📖 Education
