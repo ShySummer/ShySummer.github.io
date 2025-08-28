@@ -80,15 +80,21 @@ Deep learning-driven contactless ECG in MRI via beat pilot tone for motion-resol
 
 # 🔬 Research Experience
 
-## **A novel contact-free motion sensing method in Low-Field MRI** <span style="float: right">Aug 2022 - Sep 2024</span>
-- **Funding Application**: Prepared grant proposal materials that successfully secured funding from the National Natural Science Foundation of China (NSFC).
-- **Integration of a 0.25T permanent C-shaped MRI system**: Assembled a low-field MRI system from scratch (magnet, shielding room, gradient and RF amplifiers, power supply, etc.).
-- **Quality assurance for the low field MRI system**: Implemented a magnetic field auto-measurement control system on raspberry pi based on the open-source project [cosi-measure](https://github.com/opensourceimaging/cosi-measure).
-- **RF-based contact-free motion sensing**: Integrated [Beat Pilot Tone (BPT)](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.30150) hardware link modules to transmit 2.4 GHz RF signals for motion sensing during MRI scans.
-- **Signal Processing**: Extracted motion features from high-dimensional BPT-derived physiological data and mapped it to quantitative representations using a motion model.
-
 ## **Development of a small quadruped robot with VSLAM capabilities** <span style="float: right">Apr 2021 - Apr 2022</span>
 - **Algorithm deplotment**: Deployed Stereo Vision-based SLAM algorithm on Nvidia embedded device based on [ROS](https://www.ros.org/) to navigate for quadruped robot.
+
+## **A novel contact-free motion sensing method in Low-Field MRI** <span style="float: right">Aug 2022 - Sep 2024</span>
+- **Funding application**: Prepared grant proposal materials that successfully secured funding from the National Natural Science Foundation of China (NSFC).
+- **Integration of a 0.25T permanent C-shaped MRI system**: Assembled a low-field MRI system from scratch (magnet, shielding room, gradient and RF amplifiers, power supply, etc.).
+- **Quality assurance for the low field MRI system**: Implemented a magnetic field auto-measurement control system on raspberry pi based on the open-source project [cosi-measure](https://github.com/opensourceimaging/cosi-measure).
+- **RF-based contact-free motion sensing hardware**: Integrated [Beat Pilot Tone (BPT)](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.30150) (a contact-free motion sensing modality during MR scans)hardware link modules to transmit 2.4 GHz RF signals for motion sensing during MRI scans.
+- **Signal processing**: Extracted motion features from high-dimensional BPT-derived physiological data and mapped it to quantitative representations using a motion model.
+
+## **Contactless ECG measurement based on deep learning and Beat Pilot Tone under MRI** <span style="float: right">Sep 2024 - Jun 2025</span>
+- **MRI sequence programing**: Modified the MRI sequence (e.g. gradient, RF) and investigated its effect on the BPT sensing signal to guide the optimal experimental setup.
+- **Dataset Collection**: Recruited participants to complete cardiac MRI scans and collect paired data of MRI, BPT, and ECG.
+- **AI algorithm development**: Developed a deep learning model based on Pytorch to achieve ECG waveform reconstruction using BPT cardiac signal.
+- **MRI reconstruction**: Motion-robust retrospective binning MRI reconstruction using radial sampling trajectories.
 
 
 # 📖 Education
@@ -101,6 +107,12 @@ Deep learning-driven contactless ECG in MRI via beat pilot tone for motion-resol
 - *2021.12* First Prize in TI Cup China’s Undergraduate Electronics Design Contest \| [\[Intelligent medication delivery robot\]](https://www.bilibili.com/video/BV1zp8Je9Esr/?spm_id_from=333.1387.favlist.content.click&vd_source=fb44d4bd04beda1502bf99705ce0494f)
 - *2021.10* National Scholarship (Top 1%)
 - *2021.09* Second Prize in China’s Undergraduate Smart Car Contest \| [\[Omnidirectional Smart Car Racing\]](https://www.bilibili.com/video/BV1LP4y1P77p/?spm_id_from=333.1387.top_right_bar_window_default_collection.content.click&vd_source=fb44d4bd04beda1502bf99705ce0494f)
+
+# 💻 Internships
+- *2025.08 - Present*, Wandong Medical Technology, Beijing.
+  **Prospective physiological triggering for motion-resolved MRI based on Beat Pilot Tone**
+  - **Real-time signal processing**: Acquired BPT-encoded real-time MRI k-space data stream based on Gadgetron and extracted modulated physiological signals with minimal latency.
+  - **Physiological triggering pipeline**: Calibrated a stable physiological trigger by deriving an initial threshold from the prescan and applied dynamic threshold correction to refine it, converted the trigger signal to a TTL level via serial-port communication hardware, and outputted the TTL trigger to the MR spectrometer to synchronize the sequence acquisition.
 
 
 # ​👻 Personal
