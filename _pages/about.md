@@ -76,19 +76,19 @@ In Proc. Intl. Soc. Mag. Reson. Med, 03-08 June, Toronto, Canada, 2023 (Oral)
 
 Deep learning-driven contactless ECG in MRI via beat pilot tone for motion-resolved image reconstruction and heart rate monitoring 
 
-**Haoyu Sun**, Qichen Ding, Sijie Zhong, Zhiyong Zhang. Physics in Medicine & Biology, 2025 (Under Review)
+**Haoyu Sun**, Qichen Ding, Sijie Zhong, Zhiyong Zhang. Physics in Medicine & Biology, 2025 (Under Revision)
 
 # 🔬 Research Experience
 
 ## **Development of a small quadruped robot with VSLAM capabilities** <span style="float: right">2021.04 - 2022.04</span>
-- **Algorithm deplotment**: Deployed Stereo Vision-based SLAM algorithm on Nvidia embedded device based on [ROS](https://www.ros.org/) to navigate for quadruped robot.
+- **Visual navigation**: Deployed Stereo Vision-based SLAM algorithm on Nvidia embedded device based on [ROS](https://www.ros.org/) to navigate for quadruped robot.
 
 ## **A novel contact-free motion sensing method in Low-Field MRI** <span style="float: right">2022.08 - 2024.09</span>
 - **Funding application**: Prepared grant proposal materials that successfully secured funding from the National Natural Science Foundation of China (NSFC).
 - **Integration of a 0.25T permanent C-shaped MRI system**: Assembled a low-field MRI system from scratch (magnet, shielding room, gradient and RF amplifiers, power supply, etc.).
 - **Quality assurance for the low field MRI system**: Implemented a magnetic field auto-measurement control system on raspberry pi based on the open-source project [cosi-measure](https://github.com/opensourceimaging/cosi-measure).
-- **RF-based contact-free motion sensing hardware**: Integrated [Beat Pilot Tone (BPT)](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.30150) (a contact-free motion sensing modality during MR scans)hardware link modules to transmit 2.4 GHz RF signals for motion sensing during MRI scans.
-- **Signal processing**: Extracted motion features from high-dimensional BPT-derived physiological data and mapped it to quantitative representations using a motion model.
+- **RF-based contact-free motion sensing hardware**: Integrated [Beat Pilot Tone (BPT)](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.30150) (a contact-free motion sensing modality during MR scans) hardware link modules to transmit 2.4 GHz RF signals for motion sensing during MRI scans.
+- **Physiological signal processing**: Extracted motion features from high-dimensional BPT-derived physiological data and mapped it to quantitative representations using a motion model.
 
 ## **Contactless ECG measurement based on deep learning and Beat Pilot Tone under MRI** <span style="float: right">2024.09 - 2025.06</span>
 - **MRI sequence programing**: Modified the MRI sequence (e.g. gradient, RF) and investigated its effect on the BPT sensing signal to guide the optimal experimental setup.
@@ -114,9 +114,10 @@ Wandong Medical Technology <span style="float: right">Beijing</span>
 - **Real-time signal processing**: Acquired BPT-encoded real-time MRI k-space data stream based on Gadgetron and extracted modulated physiological signals with minimal latency.
 - **Physiological triggering pipeline**: Calibrated a stable physiological trigger by deriving an initial threshold from the prescan and applied dynamic threshold correction to refine it, converted the trigger signal to a TTL level via serial-port communication hardware, and outputted the TTL trigger to the MR spectrometer to synchronize the sequence acquisition.
 
-
-
 # ​👻 Personal
-I love outdoor activieties
+Outdoors has been my constant since childhood. I used to think it was about the views or the adrenaline, but a pre-dawn 5 km climb when I was 16 taught me something simpler: being outdoors helps me quiet my mind and focus on myself. Out there I slow down, strip away the noise, and come back clearer — it’s my go-to way to reset.
+<img src="images/paper3.png" alt="Poster for ISMRM 2024" style="width:320px; height:auto; display:block; margin:0 auto;">
+
+
 
 
