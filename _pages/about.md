@@ -118,8 +118,6 @@ Wandong Medical Technology <span style="float: right">Beijing</span>
 Outdoors has been my constant since childhood. I used to think it was about the views or the adrenaline, but a pre-dawn 5 km climb when I was 15 taught me something simpler: being outdoors helps me quiet my mind and focus on myself. Out there I slow down, strip away the noise, and come back clearer — it’s my go-to way to reset.
 <!-- <img src="images/2016Sichuan.png" alt="2016" style="max-width:640;height:auto;display:block;margin:0 auto;"> -->
 <figure style="text-align:center; padding-bottom:4rem; margin:0;">
-  <!-- <figcaption style="margin-bottom:0.5rem; font-weight:600;">2016</figcaption> -->
-
   <div style="display:flex; gap:1rem; align-items:flex-start; justify-content:center; flex-wrap:wrap;">
     <div style="flex:1 1 280px; max-width:520px;">
       <img src="/images/2016Sichuan.jpg"
@@ -133,6 +131,12 @@ Outdoors has been my constant since childhood. I used to think it was about the 
            alt="Jiangxi 2025"
            style="width:100%; height:auto; display:block; object-fit:cover;">
       <div style="font-size:0.9rem; margin-top:0.35rem;">Jiangxi, 2025</div>
+    </div>
+    <div style="flex:1 1 280px; max-width:520px;">
+      <img src="/images/2013Nanjing.jpg"
+           alt="Nanjing 2025"
+           style="width:100%; height:auto; display:block; object-fit:cover;">
+      <div style="font-size:0.9rem; margin-top:0.35rem;">Nanjing, 2025</div>
     </div>
   </div>
 </figure>
