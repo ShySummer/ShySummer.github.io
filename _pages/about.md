@@ -25,7 +25,7 @@ My research interests include magnetic resonance imaging (MRI), signal processin
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMRM 2025</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMRM 2025</div><img src='/images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Learning-Driven ECG Synthesis from Beat Pilot Tone Signals for Physiological Monitoring and Image Reconstruction](https://submissions.mirasmart.com/ISMRM2025/Itinerary/PresentationDetail.aspx?evdid=2857)
@@ -36,7 +36,7 @@ In Proc. Intl. Soc. Mag. Reson. Med, 10-15 May, Honolulu, Hawaii, 2025 (Power Pi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Instrum. Meas. 2025</div><img src='images/paper2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Instrum. Meas. 2025</div><img src='/images/paper2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards contact-free motion sensing technique in low-field MRI using beat pilot tone](https://ieeexplore.ieee.org/abstract/document/10839477)
@@ -48,7 +48,7 @@ IEEE Transactions on Instrumentation and Measurement, 2025.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMRM 2024</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMRM 2024</div><img src='/images/paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Experimental Investigation of Interfering Factors in Cardiac Sensing of Beat Pilot Tone](https://submissions.mirasmart.com/ISMRM2024/Itinerary/PresentationDetail.aspx?evdid=1691)
@@ -62,7 +62,7 @@ In Proc. Intl. Soc. Mag. Reson. Med, 04-09 May, Singapore, 2024 (Digital Poster)
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMRM 2023</div><img src='images/paper4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMRM 2023</div><img src='/images/paper4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards contact-free motion sensing technique at low-field MRI using beat pilot tone](https://submissions.mirasmart.com/ISMRM2023/Itinerary/PresentationDetail.aspx?evdid=930) 
@@ -117,28 +117,26 @@ Wandong Medical Technology <span style="float: right">Beijing</span>
 # ​👻 Personal
 Outdoors has been my constant since childhood. I used to think it was about the views or the adrenaline, but a pre-dawn 5 km climb when I was 15 taught me something simpler: being outdoors helps me quiet my mind and focus on myself. Out there I slow down, strip away the noise, and come back clearer — it’s my go-to way to reset.
 <!-- <img src="images/2016Sichuan.png" alt="2016" style="max-width:640;height:auto;display:block;margin:0 auto;"> -->
-
-<!-- <div style="text-align:center; padding-bottom:4rem;">
-  <div style="margin-bottom:0.5rem; font-weight:600;"> 2016 </div>
-  <img src="images/2016Sichuan.png"
-       alt="2016"
-       style="max-width:640; height:auto; display:block; margin:0 auto;">
-</div> -->
-<!-- 方案 A：flex 布局，图片等分宽度，小屏幕自动堆叠 -->
-<div style="text-align:center; padding-bottom:4rem;">
-  <!-- <div style="margin-bottom:0.5rem; font-weight:600;">
-    2016
-  </div> -->
+<figure style="text-align:center; padding-bottom:4rem; margin:0;">
+  <!-- <figcaption style="margin-bottom:0.5rem; font-weight:600;">2016</figcaption> -->
 
   <div style="display:flex; gap:1rem; align-items:flex-start; justify-content:center; flex-wrap:wrap;">
-    <img src="images/2016Sichuan.jpg"
-         alt="2016"
-         style="flex:1 1 280px; max-width:520px; width:100%; height:auto; display:block;">
-    <img src="images/2025Jiangxi.jpg"
-         alt="2025"
-         style="flex:1 1 280px; max-width:520px; width:100%; height:auto; display:block;">
+    <div style="flex:1 1 280px; max-width:520px;">
+      <img src="/images/2016Sichuan.jpg"
+           alt="Sichuan 2016"
+           style="width:100%; height:auto; display:block; object-fit:cover;">
+      <!-- 可选每张图的说明 -->
+      <div style="font-size:0.9rem; margin-top:0.35rem;">Sichuan, 2016</div>
+    </div>
+    <div style="flex:1 1 280px; max-width:520px;">
+      <img src="/images/2025Jiangxi.jpg"
+           alt="Jiangxi 2025"
+           style="width:100%; height:auto; display:block; object-fit:cover;">
+      <div style="font-size:0.9rem; margin-top:0.35rem;">Jiangxi, 2025</div>
+    </div>
   </div>
-</div>
+</figure>
+
 
 
 
