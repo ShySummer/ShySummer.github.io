@@ -115,8 +115,8 @@ Wandong Medical Technology <span style="float: right">Beijing</span>
 - **Physiological triggering pipeline**: Calibrated a stable physiological trigger by deriving an initial threshold from the prescan and applied dynamic threshold correction to refine it, converted the trigger signal to a TTL level via serial-port communication hardware, and outputted the TTL trigger to the MR spectrometer to synchronize the sequence acquisition.
 
 # ​👻 Personal
-Outdoors has been my constant since childhood. I used to think it was about the views or the adrenaline, but a pre-dawn 5 km climb when I was 16 taught me something simpler: being outdoors helps me quiet my mind and focus on myself. Out there I slow down, strip away the noise, and come back clearer — it’s my go-to way to reset.
-<img src="images/paper3.png" alt="Poster for ISMRM 2024" style="width:320px; height:auto; display:block; margin:0 auto;">
+Outdoors has been my constant since childhood. I used to think it was about the views or the adrenaline, but a pre-dawn 5 km climb when I was 15 taught me something simpler: being outdoors helps me quiet my mind and focus on myself. Out there I slow down, strip away the noise, and come back clearer — it’s my go-to way to reset.
+<img src="images/paper3.png" alt="Poster for ISMRM 2024" style="max-width:100%;height:auto;display:block;margin:0 auto;">
 
 
 
