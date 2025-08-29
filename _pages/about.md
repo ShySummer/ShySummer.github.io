@@ -126,15 +126,15 @@ Outdoors has been my constant since childhood. I used to think it was about the 
 </div> -->
 <!-- 方案 A：flex 布局，图片等分宽度，小屏幕自动堆叠 -->
 <div style="text-align:center; padding-bottom:4rem;">
-  <div style="margin-bottom:0.5rem; font-weight:600;">
+  <!-- <div style="margin-bottom:0.5rem; font-weight:600;">
     2016
-  </div>
+  </div> -->
 
   <div style="display:flex; gap:1rem; align-items:flex-start; justify-content:center; flex-wrap:wrap;">
-    <img src="images/2016Sichuan.png"
+    <img src="images/2016Sichuan.jpg"
          alt="2016"
          style="flex:1 1 280px; max-width:520px; width:100%; height:auto; display:block;">
-    <img src="images/2025Jiangxi.png"
+    <img src="images/2025Jiangxi.jgp"
          alt="2025"
          style="flex:1 1 280px; max-width:520px; width:100%; height:auto; display:block;">
   </div>
