@@ -120,7 +120,7 @@ Outdoors has been my constant since childhood. I used to think it was about the 
 <figure style="text-align:center; padding-bottom:4rem; margin:0;">
   <div style="display:flex; gap:1rem; align-items:flex-start; justify-content:center; flex-wrap:wrap;">
     <div style="flex:1 1 280px; max-width:520px;">
-      <img src="/images/2016Sichuan.jpg"
+      <img src="/images/2016Sichuan.JPG"
            alt="Sichuan 2016"
            style="width:100%; height:auto; display:block; object-fit:cover;">
       <!-- 可选每张图的说明 -->
