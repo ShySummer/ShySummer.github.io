@@ -134,7 +134,7 @@ Outdoors has been my constant since childhood. I used to think it was about the 
     <img src="images/2016Sichuan.jpg"
          alt="2016"
          style="flex:1 1 280px; max-width:520px; width:100%; height:auto; display:block;">
-    <img src="images/2025Jiangxi.jgp"
+    <img src="images/2025Jiangxi.jpg"
          alt="2025"
          style="flex:1 1 280px; max-width:520px; width:100%; height:auto; display:block;">
   </div>
