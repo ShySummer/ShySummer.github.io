@@ -116,8 +116,29 @@ Wandong Medical Technology <span style="float: right">Beijing</span>
 
 # ​👻 Personal
 Outdoors has been my constant since childhood. I used to think it was about the views or the adrenaline, but a pre-dawn 5 km climb when I was 15 taught me something simpler: being outdoors helps me quiet my mind and focus on myself. Out there I slow down, strip away the noise, and come back clearer — it’s my go-to way to reset.
-<img src="images/paper3.png" alt="Poster for ISMRM 2024" style="max-width:100%;height:auto;display:block;margin:0 auto;">
+<!-- <img src="images/2016Sichuan.png" alt="2016" style="max-width:640;height:auto;display:block;margin:0 auto;"> -->
 
+<!-- <div style="text-align:center; padding-bottom:4rem;">
+  <div style="margin-bottom:0.5rem; font-weight:600;"> 2016 </div>
+  <img src="images/2016Sichuan.png"
+       alt="2016"
+       style="max-width:640; height:auto; display:block; margin:0 auto;">
+</div> -->
+<!-- 方案 A：flex 布局，图片等分宽度，小屏幕自动堆叠 -->
+<div style="text-align:center; padding-bottom:4rem;">
+  <div style="margin-bottom:0.5rem; font-weight:600;">
+    2016
+  </div>
+
+  <div style="display:flex; gap:1rem; align-items:flex-start; justify-content:center; flex-wrap:wrap;">
+    <img src="images/2016Sichuan.png"
+         alt="2016"
+         style="flex:1 1 280px; max-width:520px; width:100%; height:auto; display:block;">
+    <img src="images/2025Jiangxi.png"
+         alt="2025"
+         style="flex:1 1 280px; max-width:520px; width:100%; height:auto; display:block;">
+  </div>
+</div>
 
 
 
