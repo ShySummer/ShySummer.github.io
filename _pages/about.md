@@ -127,7 +127,7 @@ Outdoors has been my constant since childhood. I used to think it was about the 
       <div style="font-size:0.9rem; margin-top:0.35rem;">2013</div>
     </div>
     <div style="flex:1 1 280px; max-width:520px;">
-      <img src="/images/2016Sichuan.jpg"
+      <img src="/images/2016Sichuan.JPG"
            alt="2016"
            style="width:100%; height:auto; display:block; object-fit:cover;">
       <div style="font-size:0.9rem; margin-top:0.35rem;">2016</div>
