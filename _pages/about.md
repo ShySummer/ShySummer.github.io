@@ -120,23 +120,23 @@ Outdoors has been my constant since childhood. I used to think it was about the 
 <figure style="text-align:center; padding-bottom:4rem; margin:0;">
   <div style="display:flex; gap:1rem; align-items:flex-start; justify-content:center; flex-wrap:wrap;">
     <div style="flex:1 1 280px; max-width:520px;">
-      <img src="/images/2016Sichuan.JPG"
-           alt="Sichuan 2016"
+      <img src="/images/2013Nanjing.jpg"
+           alt="2013"
            style="width:100%; height:auto; display:block; object-fit:cover;">
       <!-- 可选每张图的说明 -->
-      <div style="font-size:0.9rem; margin-top:0.35rem;">Sichuan, 2016</div>
+      <div style="font-size:0.9rem; margin-top:0.35rem;">2013</div>
+    </div>
+    <div style="flex:1 1 280px; max-width:520px;">
+      <img src="/images/2016Sichuan.jpg"
+           alt="2016"
+           style="width:100%; height:auto; display:block; object-fit:cover;">
+      <div style="font-size:0.9rem; margin-top:0.35rem;">2016</div>
     </div>
     <div style="flex:1 1 280px; max-width:520px;">
       <img src="/images/2025Jiangxi.jpg"
-           alt="Jiangxi 2025"
+           alt="2025"
            style="width:100%; height:auto; display:block; object-fit:cover;">
-      <div style="font-size:0.9rem; margin-top:0.35rem;">Jiangxi, 2025</div>
-    </div>
-    <div style="flex:1 1 280px; max-width:520px;">
-      <img src="/images/2013Nanjing.jpg"
-           alt="Nanjing 2025"
-           style="width:100%; height:auto; display:block; object-fit:cover;">
-      <div style="font-size:0.9rem; margin-top:0.35rem;">Nanjing, 2025</div>
+      <div style="font-size:0.9rem; margin-top:0.35rem;">2025</div>
     </div>
   </div>
 </figure>
