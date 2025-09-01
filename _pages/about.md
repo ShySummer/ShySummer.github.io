@@ -86,13 +86,13 @@ Deep learning-driven contactless ECG in MRI via beat pilot tone for motion-resol
 ## **A novel contact-free motion sensing method in Low-Field MRI** <span style="float: right">2022.08 - 2024.09</span>
 - **Funding application**: Prepared grant proposal materials that successfully secured funding from the National Natural Science Foundation of China (NSFC).
 - **Integration of a 0.25T permanent C-shaped MRI system**: Assembled a low-field MRI system from scratch (magnet, shielding room, gradient and RF amplifiers, power supply, etc.).
-- **Quality assurance for the low field MRI system**: Implemented a magnetic field auto-measurement control system on raspberry pi based on the open-source project [cosi-measure](https://github.com/opensourceimaging/cosi-measure) to ensure magenetic field homogeneity.
+- **Quality assurance for the low field MRI system**: Implemented a magnetic field auto-measurement control system on raspberry pi based on the open-source project [cosi-measure](https://github.com/opensourceimaging/cosi-measure) to ensure magnetic field homogeneity.
 - **RF-based contact-free motion sensing hardware**: Integrated [Beat Pilot Tone (BPT)](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.30150) (a contact-free motion sensing modality during MR scans) hardware link modules to transmit 2.4 GHz RF signals for motion sensing.
 - **Physiological signal processing**: Extracted motion features from high-dimensional BPT-derived physiological data and mapped it to quantitative representations using a motion model.
 
 ## **Contactless ECG measurement based on deep learning and Beat Pilot Tone under MRI** <span style="float: right">2024.09 - 2025.06</span>
 - **MRI sequence programing**: Modified the MRI sequence (e.g. gradient, RF) and investigated its effect on the BPT sensing signal to guide the optimal experimental setup.
-- **Dataset Collection**: Recruited participants to complete cardiac MRI scans and collect paired data of MRI, BPT, and ECG.
+- **Dataset collection**: Recruited participants to complete cardiac MRI scans and collect paired data of MRI, BPT, and ECG.
 - **AI algorithm development**: Developed a deep learning model based on Pytorch to achieve ECG waveform reconstruction using BPT cardiac signal.
 - **MRI reconstruction**: Motion-robust retrospective binning MRI reconstruction using radial sampling trajectories.
 
