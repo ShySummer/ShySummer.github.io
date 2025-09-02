@@ -85,7 +85,7 @@ Deep learning-driven contactless ECG in MRI via beat pilot tone for motion-resol
 
 ## **A novel contact-free motion sensing method in Low-Field MRI** <span style="float: right">2022.08 - 2024.09</span>
 - **Funding application**: Prepared grant proposal materials that successfully secured funding from the National Natural Science Foundation of China (NSFC).
-- **Integration of a 0.25T permanent C-shaped MRI system**: Assembled a low-field MRI system from scratch (magnet, shielding room, gradient and RF amplifiers, power supply, etc.).
+- **Integration of a 0.25T permanent C-shaped MRI system**: Assembled a low-field MRI system from scratch (magnet, shielding room, gradient and RF amplifiers, power supply, etc.) and ultimately succeeded in generating MR images.
 - **Quality assurance for the low field MRI system**: Implemented a magnetic field auto-measurement control system on raspberry pi based on the open-source project [cosi-measure](https://github.com/opensourceimaging/cosi-measure) to ensure magnetic field homogeneity.
 - **RF-based contact-free motion sensing hardware**: Integrated [Beat Pilot Tone (BPT)](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.30150) (a contact-free motion sensing modality during MR scans) hardware link modules to transmit 2.4 GHz RF signals for motion sensing.
 - **Physiological signal processing**: Extracted motion features from high-dimensional BPT-derived physiological data and mapped them to quantitative representations using a motion model.
@@ -93,7 +93,7 @@ Deep learning-driven contactless ECG in MRI via beat pilot tone for motion-resol
 ## **Contactless ECG measurement based on deep learning and Beat Pilot Tone under MRI** <span style="float: right">2024.09 - 2025.06</span>
 - **MRI sequence programming**: Modified the MRI sequence (e.g. gradient, RF) and investigated its effect on the BPT sensing signal to guide the optimal experimental setup.
 - **Dataset collection**: Recruited participants to complete cardiac MRI scans and collect paired data of MRI, BPT, and ECG.
-- **AI algorithm development**: Developed a deep learning model based on Pytorch to achieve ECG waveform reconstruction using BPT cardiac signal.
+- **AI algorithm development**: Developed a deep learning model based on Pytorch to achieve ECG waveform reconstruction using BPT cardiac signal, effectively mitigating the magnetohydrodynamic (MHD) distortion typically present in conventional ECG.
 - **MRI reconstruction**: Motion-robust retrospective binning MRI reconstruction using radial sampling trajectories.
 
 
@@ -113,7 +113,7 @@ Deep learning-driven contactless ECG in MRI via beat pilot tone for motion-resol
 ## **Prospective physiological triggering for motion-resolved MRI based on Beat Pilot Tone** <span style="float: right">2025.08 - present</span>
 Wandong Medical Technology <span style="float: right">Beijing</span>
 - **Real-time signal processing**: Acquired BPT-encoded real-time MRI k-space data stream based on [Gadgetron](https://gadgetron.github.io/) and extracted modulated physiological signals with minimal latency.
-- **Physiological triggering pipeline**: Calibrated a stable physiological trigger by deriving an initial threshold from the prescan and applied dynamic threshold correction to refine it, converted the trigger signal to a TTL level via serial-port communication hardware, and outputted the TTL trigger to the MR spectrometer to synchronize the sequence acquisition.
+- **Physiological triggering pipeline**: Calibrated a stable physiological trigger via prescan with dynamic thresholding, generated a TTL signal over serial hardware, and used it to synchronize the sequence on the MR spectrometer.
 
 # ​👻 Personal
 Outdoors has been my constant since childhood. I used to think it was about the views or the adrenaline, but a pre-dawn 5 km climb when I was 15 taught me something simpler: being outdoors helps me quiet my mind and focus on myself. Out there I slow down, strip away the noise, and come back clearer — it’s my go-to way to reset.
