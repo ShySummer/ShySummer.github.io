@@ -103,6 +103,7 @@ Deep learning-driven contactless ECG in MRI via beat pilot tone for motion-resol
 
 # 🎖 Selected Honors and Awards
 - *2024.10* Shanghai Jiao Tong University First-Class Academic Scholarship 
+- *2022.12* Nanjing University of Posts and Telecommunications Person of the Year (Top 1%)
 - *2022.10* China National Scholarship (Top 1%)
 - *2021.12* First Prize in TI Cup China’s Undergraduate Electronics Design Contest \| [\[Intelligent medication delivery robot\]](https://www.bilibili.com/video/BV1zp8Je9Esr/?spm_id_from=333.1387.favlist.content.click&vd_source=fb44d4bd04beda1502bf99705ce0494f)
 - *2021.10* China National Scholarship (Top 1%)
