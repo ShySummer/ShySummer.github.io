@@ -30,7 +30,9 @@ My research interests include magnetic resonance imaging (MRI), signal processin
 
 Deep learning-driven contactless ECG in MRI via beat pilot tone for motion-resolved image reconstruction and heart rate monitoring 
 
-**Haoyu Sun**, Qichen Ding, Sijie Zhong, Zhiyong Zhang. Physics in Medicine & Biology, 2025 (Paper Accepted)
+**Haoyu Sun**, Qichen Ding, Sijie Zhong, Zhiyong Zhang. 
+
+Physics in Medicine & Biology, 2025 (Paper Accepted)
 
 </div>
 </div>
